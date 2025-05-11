@@ -6,7 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-![Tampilan Website](/screenshots/desain-layout.jpg)
+<br>
+<img src="/screenshots/desain-layout.jpg" width="400">
 <br>
 <b>Tentang Projek</b>
 <br>
