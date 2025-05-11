@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 <br>
-<img src="/screenshots/desain-layout.jpg" width="400">
+<p align="center"><img src="/screenshots/desain-layout.jpg" width="800"></p>
 <br>
 <b>Tentang Projek</b>
 <br>
