@@ -11,7 +11,7 @@
 <br>
 <b>Tentang Projek</b>
 <br>
-Projek ini saya buat untuk memudahkan sekolah dalam menghadapi pencatatan tabungan siswa secara open-source/gratis, jika ingin hendak menjualnya, harap untuk modifikasi, jangan asal unduh lalu jual!:)
+Projek ini saya buat untuk memudahkan sekolah dalam menghadapi pencatatan tabungan siswa secara open-source/gratis, jika ingin hendak menjualnya, harap untuk modifikasi, jangan asal unduh lalu jual!:)<br>
 dengan,
 <br>
 <b>Fitur-fitur</b>
