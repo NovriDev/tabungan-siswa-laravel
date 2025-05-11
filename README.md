@@ -9,6 +9,10 @@
 <br>
 <p align="center"><img src="/screenshots/desain-layout.jpg" width="800"></p>
 <br>
+<p align="center"><b>DFD Level 0 <br><img src="/screenshots/dfd_0.jpeg" width="600"></b></p>
+<br>
+<p align="center"><b>DFD Level 1 <br><img src="/screenshots/dfd_1,jpeg" width="600"></b></p>
+<br>
 <b>Tentang Projek</b>
 <br>
 Projek ini saya buat untuk memudahkan sekolah dalam menghadapi pencatatan tabungan siswa secara open-source/gratis, jika ingin hendak menjualnya, harap untuk modifikasi, jangan asal unduh lalu jual!:)<br>
@@ -49,7 +53,6 @@ Melihat isi saldo dan riwayat transaksi apabila melakukan transaksi.
 <br>
 <b># Untuk projek laravel ini membutuhkan PHP versi minimal 7.3</b>
 <br>
-<p align="center"><b>DFD Level 0 <br><img src="/screenshots/dfd_0,jpeg" width="600"></b></p>
 <br>
 <b>## License</b>
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
