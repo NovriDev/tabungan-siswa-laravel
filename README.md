@@ -7,9 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 ![Tampilan Website](/screenshots/desain-layout.jpg)
+<br>
 ## Tentang Projek
 Projek ini saya buat untuk memudahkan sekolah dalam menghadapi pencatatan tabungan siswa secara open-source/gratis, jika ingin hendak menjualnya, harap untuk modifikasi, jangan asal unduh lalu jual!:)
 dengan,
+<br>
 ## Fitur-fitur
 ## Admin : 
 Mengelola tabungan Update user(Admin, Wali kelas, dan Siswa) Input pembayaran & penarikan View riwayat transaksi Cetak Struk 
@@ -17,6 +19,7 @@ Mengelola tabungan Update user(Admin, Wali kelas, dan Siswa) Input pembayaran & 
 Melihat isi saldo dan melihat jumlah siswa yang menabung
 ## Siswa : 
 Melihat isi saldo dan riwayat transaksi apabila melakukan transaksi. 
+<br>
 ## Cara Pasang
 - Buat folder(bebas) lalu,
 - Buka folder ke CMD, GitBash, Git CMD, atau Windows Powershell,
@@ -26,6 +29,8 @@ Melihat isi saldo dan riwayat transaksi apabila melakukan transaksi.
 - Ketik composer install (untuk menginstal semua dependensi yang telah didefinisikan dalam file composer.json di proyek PHP),
 - Lalu buat .env untuk menghubungkan pada database,
 - Selesai, projek siap digunakan.
+<br>
 ## Untuk projek laravel ini membutuhkan PHP versi minimal 7.3
+<br>
 ## License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
