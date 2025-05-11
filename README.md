@@ -8,11 +8,12 @@
 </p>
 ![Tampilan Website](/screenshots/desain-layout.jpg)
 <br>
-## Tentang Projek
+<b>Tentang Projek</b>
+<br>
 Projek ini saya buat untuk memudahkan sekolah dalam menghadapi pencatatan tabungan siswa secara open-source/gratis, jika ingin hendak menjualnya, harap untuk modifikasi, jangan asal unduh lalu jual!:)
 dengan,
 <br>
-## Fitur-fitur
+<b>Fitur-fitur</b>
 <br>
 <b>Admin :</b> 
 Mengelola tabungan Update user(Admin, Wali kelas, dan Siswa) Input pembayaran & penarikan View riwayat transaksi Cetak Struk 
