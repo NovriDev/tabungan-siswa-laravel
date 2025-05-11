@@ -17,20 +17,33 @@ dengan,
 <b>Fitur-fitur</b>
 <br>
 <b>Admin :</b> 
+<br>
 Mengelola tabungan Update user(Admin, Wali kelas, dan Siswa) Input pembayaran & penarikan View riwayat transaksi Cetak Struk 
+<br>
 <b>Wali Kelas :</b>
+<br>
 Melihat isi saldo dan melihat jumlah siswa yang menabung
+<br>
 <b>Siswa :</b> 
+<br>
 Melihat isi saldo dan riwayat transaksi apabila melakukan transaksi. 
 <br>
 <b>Cara Pasang</b>
+<br>
 - Buat folder(bebas) lalu,
+<br>
 - Buka folder ke CMD, GitBash, Git CMD, atau Windows Powershell,
+<br>
 - Ketik <b>git clone (link dengan repositori github dengan format .git),</b>
+<br>
 - Tunggu proses salin selesai,
+<br>
 - Jika sudah selesai, buka projek menggunakan text-editor(disarankan Visual Studio Code), kemudian buka "new terminal",
+<br>
 - Ketik composer install (untuk menginstal semua dependensi yang telah didefinisikan dalam file composer.json di proyek PHP),
+<br>
 - Lalu buat .env untuk menghubungkan pada database,
+<br>
 - Selesai, projek siap digunakan.
 <br>
 <b># Untuk projek laravel ini membutuhkan PHP versi minimal 7.3</b>
