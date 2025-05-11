@@ -11,7 +11,7 @@
 <br>
 <p align="center"><b>DFD Level 0 <br><img src="/screenshots/dfd_0.jpeg" width="600"></b></p>
 <br>
-<p align="center"><b>DFD Level 1 <br><img src="/screenshots/dfd_1,jpeg" width="600"></b></p>
+<p align="center"><b>DFD Level 1 <br><img src="/screenshots/dfd_1.jpeg" width="600"></b></p>
 <br>
 <b>Tentang Projek</b>
 <br>
