@@ -13,14 +13,15 @@ Projek ini saya buat untuk memudahkan sekolah dalam menghadapi pencatatan tabung
 dengan,
 <br>
 ## Fitur-fitur
-## Admin : 
+<br>
+<b>Admin :</b> 
 Mengelola tabungan Update user(Admin, Wali kelas, dan Siswa) Input pembayaran & penarikan View riwayat transaksi Cetak Struk 
-## Wali Kelas : 
+<b>Wali Kelas :</b>
 Melihat isi saldo dan melihat jumlah siswa yang menabung
-## Siswa : 
+<b>Siswa :</b> 
 Melihat isi saldo dan riwayat transaksi apabila melakukan transaksi. 
 <br>
-## Cara Pasang
+<b>Cara Pasang</b>
 - Buat folder(bebas) lalu,
 - Buka folder ke CMD, GitBash, Git CMD, atau Windows Powershell,
 - Ketik <b>git clone (link dengan repositori github dengan format .git),</b>
@@ -30,7 +31,7 @@ Melihat isi saldo dan riwayat transaksi apabila melakukan transaksi.
 - Lalu buat .env untuk menghubungkan pada database,
 - Selesai, projek siap digunakan.
 <br>
-## Untuk projek laravel ini membutuhkan PHP versi minimal 7.3
+<b># Untuk projek laravel ini membutuhkan PHP versi minimal 7.3</b>
 <br>
-## License
+<b>## License</b>
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
