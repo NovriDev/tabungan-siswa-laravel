@@ -38,7 +38,7 @@ Melihat isi saldo dan riwayat transaksi apabila melakukan transaksi.
 <br>
 - Buka folder ke CMD, GitBash, Git CMD, atau Windows Powershell,
 <br>
-- Ketik <b>git clone (link dengan repositori github dengan format .git),</b>
+- Ketik <b>git clone (link repositori github dengan format .git),</b>
 <br>
 - Tunggu proses salin selesai,
 <br>
