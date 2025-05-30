@@ -53,9 +53,9 @@ Melihat isi saldo dan riwayat transaksi apabila melakukan transaksi.
 <br>
 <br>
 
-<b># Untuk projek laravel ini membutuhkan PHP versi minimal 7.3</b>
+# <b>Untuk projek laravel ini membutuhkan PHP versi minimal 7.3</b>
 <br>
 <br>
 
-<b>## License</b>
+## <b>License</b>
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
