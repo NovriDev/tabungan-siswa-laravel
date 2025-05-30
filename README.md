@@ -32,6 +32,7 @@ Melihat isi saldo dan melihat jumlah siswa yang menabung
 <br>
 Melihat isi saldo dan riwayat transaksi apabila melakukan transaksi. 
 <br>
+
 ## <b>Cara Pasang</b>
 <br>
 - Buat folder(bebas) lalu,
@@ -51,8 +52,10 @@ Melihat isi saldo dan riwayat transaksi apabila melakukan transaksi.
 - Selesai, projek siap digunakan.
 <br>
 <br>
+
 <b># Untuk projek laravel ini membutuhkan PHP versi minimal 7.3</b>
 <br>
 <br>
+
 <b>## License</b>
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
